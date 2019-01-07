@@ -1,0 +1,16 @@
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ronie\source\repos\ROAR\ROAR_API\BussinessLayer\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.xml
