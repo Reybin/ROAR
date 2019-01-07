@@ -3,3 +3,11 @@
 ################################################################################
 
 /ROAR_API/DataLayer/Migrations/RoarContextModelSnapshot.cs
+/ROAR_API/DataLayer/Migrations/20190106230035_ModedStringLength.Designer.cs
+/ROAR_API/DataLayer/Migrations/20190106230035_ModedStringLength.cs
+/ROAR_API/DataLayer/Migrations/20190106213100_Added_Bool_To_BaseModel.Designer.cs
+/ROAR_API/DataLayer/Migrations/20190106213100_Added_Bool_To_BaseModel.cs
+/ROAR_API/DataLayer/Migrations/20190106201932_initial.Designer.cs
+/ROAR_API/DataLayer/Migrations/20190106201932_initial.cs
+/.vs
+/ROAR_API/.vs
