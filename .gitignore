@@ -11,3 +11,5 @@
 /ROAR_API/DataLayer/Migrations/20190106201932_initial.cs
 /.vs
 /ROAR_API/.vs
+/ROAR_FRONT/node_modules/*
+
